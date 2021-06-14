@@ -4,7 +4,7 @@
 
 >🌎“Conhecereis a verdade e a verdade vos libertará.”🌎
 
-[Estudando tecnologia](https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp)
+![Estudando tecnologia](https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp)
 
 ### Knowledge in:
 *✅ Python
