@@ -16,6 +16,10 @@
 
 >🔹“A imaginação é mais importante que o conhecimento. O conhecimento é limitado. A imaginação circunda o mundo.”🔹
 
+#### profiles:
+* 📲 [facebook](https://www.facebook.com/profile.php?id=100010817372277)
+* 📲 [Linkedin](https://www.linkedin.com/in/jhonatan-rian/)
+
 ~~~
 print('I love technology')
 ~~~
