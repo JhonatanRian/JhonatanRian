@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hey, I'm is Jhonatan Rian 👋
 
-<!--
-**JhonatanRian/JhonatanRian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📒+🖥 I am a student, passionate about information technology.
 
-Here are some ideas to get you started:
+>🌎“Conhecereis a verdade e a verdade vos libertará.”🌎
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Estudando tecnologia](https://i.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.webp)
+
+### Knowledge in:
+*✅ Python
+*✅ Database
+*✅ Pandas
+*✅ Matplotlib
+*✅ Computer network
+
+>🔹“A imaginação é mais importante que o conhecimento. O conhecimento é limitado. A imaginação circunda o mundo.”🔹
+
+~~~
+print('I love technology')
+~~~
