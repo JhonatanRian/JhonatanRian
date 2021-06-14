@@ -4,8 +4,6 @@
 
 >🌎“Conhecereis a verdade e a verdade vos libertará.”🌎
 
-![Estudando tecnologia](https://i.gifer.com/Bm7L.gif)
-
 ### Knowledge in:
 *✅ Python
 *✅ Database
