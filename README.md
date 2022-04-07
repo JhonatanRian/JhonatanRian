@@ -7,12 +7,14 @@
 >🌎“Conhecereis a verdade e a verdade vos libertará.”🌎
 
 ### Knowledge in:
-✅ Python
-✅ Database
+✅ Python, Django
+✅ Databases: MySql, Postgree
 ✅ Pandas
-✅ Matplotlib
-✅ wordpress
+✅ Javascript, NodeJs, ReactJs
 ✅ Computer network
+
+>Atualmente dezenvolvendo sistemas django para analise de apostas esportivas com acesso a tecnologias como, DjangoRestFramework(Para criação de api), Requests(Para consultar API), Celery(Para fazer com que o Django trabalho e com multitarefas de forma concorente)
+
 
 #### profiles:
 * 📲 [facebook](https://www.facebook.com/profile.php?id=100010817372277)
