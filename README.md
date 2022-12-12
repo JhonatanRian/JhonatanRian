@@ -6,14 +6,19 @@
 
 >🌎“Conhecereis a verdade e a verdade vos libertará.”🌎
 
-### Knowledge in:
-✅ Python, Django
-✅ Databases: MySql, Postgree
-✅ Pandas
+### Skills:
+✅ Python, Django, fastAPI, SqlAlchemy
+✅ Java básico (Estrutura de dados, POO)
+✅ C básico (Estrutura de dados)
 ✅ Javascript, NodeJs, ReactJs
+✅ Databases: MySql, Postgree, MongoDB
+✅ Pandas
 ✅ Computer network
+✅ Docker
+✅ Design patterns com python
+✅ Programação paralela, concorrente e asyncrona com python.
 
->Atualmente dezenvolvendo sistemas django para analise de apostas esportivas com acesso a tecnologias como, DjangoRestFramework(Para criação de api), Requests(Para consultar API), Celery(Para fazer com que o Django trabalho e com multitarefas de forma concorente)
+>Atualmente dezenvolvendo focando nos estudos e projetos pessoais.
 
 
 #### profiles:
