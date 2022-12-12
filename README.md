@@ -7,16 +7,16 @@
 >🌎“Conhecereis a verdade e a verdade vos libertará.”🌎
 
 ### Skills:
-✅ Python, Django, fastAPI, SqlAlchemy
-✅ Java básico (Estrutura de dados, POO)
-✅ C básico (Estrutura de dados)
-✅ Javascript, NodeJs, ReactJs
-✅ Databases: MySql, Postgree, MongoDB
-✅ Pandas
-✅ Computer network
-✅ Docker
-✅ Design patterns com python
-✅ Programação paralela, concorrente e asyncrona com python.
+  ✅ Python, Django, fastAPI, SqlAlchemy
+  ✅ Java básico (Estrutura de dados, POO)
+  ✅ C básico (Estrutura de dados)
+  ✅ Javascript, NodeJs, ReactJs
+  ✅ Databases: MySql, Postgree, MongoDB
+  ✅ Pandas
+  ✅ Computer network
+  ✅ Docker
+  ✅ Design patterns com python
+  ✅ Programação paralela, concorrente e asyncrona com python.
 
 >Atualmente dezenvolvendo focando nos estudos e projetos pessoais.
 
