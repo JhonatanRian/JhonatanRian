@@ -34,7 +34,7 @@
 [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanRian&theme=blue-green)](https://github.com/JhonatanRian)
 [![tecnolog](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanRian&theme=blue-green)](https://github.com/JhonatanRian)
 
-> 📚💻 Atualmente focando nos estudos, faculdade e projetos pessoais, esperando a proxima fase da minha vida.
+> 📚💻 Currently focusing on studies, college and personal projects, waiting for the next phase of my life.
 
 #### 🖥 OS
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
@@ -50,4 +50,4 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100010817372277)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhonatan-rian/)
 
-> 🌎“Conhecereis a verdade e a verdade vos libertará.”🌎
+> 🌎“You will know the truth and the truth will set you free.”🌎
