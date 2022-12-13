@@ -30,8 +30,12 @@
 ![linux](https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black)
 ![raspberypi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanRian&theme=blue-green)](https://github.com/JhonatanRian)
+>
+
 [![tecnolog](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonatanRian&theme=blue-green)](https://github.com/JhonatanRian)
+
+> 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=JhonatanRian&theme=blue-green)](https://github.com/JhonatanRian)
 [![status Jhonatan Rian](https://github-readme-stats.vercel.app/api?username=JhonatanRian&theme=blue-green)](https://github.com/JhonatanRian)
 
 
