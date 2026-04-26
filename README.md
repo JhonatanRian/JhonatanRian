@@ -9,7 +9,6 @@ I am a software engineer with over 4 years of professional experience, specializ
 * **Software Architecture:** Building scalable systems using **Hexagonal Architecture** and **AWS**.
 * **Micro-SaaS & Entrepreneurship:** Founder at **JRM Digital Creations**, currently developing:
     * **EcuMap:** A circuit board mapping SaaS platform featuring advanced image processing.
-    * **ZapLink:** A high-performance WhatsApp link shortener and marketing automation tool.
 * **Full-Stack Expansion:** Bridging the gap between robust backends and modern frontends using **Next.js** and **TypeScript**.
 * **Developer Experience:** Living in the terminal with **Debian** and crafting code with **Neovim** (LazyVim).
 
